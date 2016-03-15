@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the Baku.LibqiDotNet" Url="html/909ecc00-248e-4a75-b1f4-45f4b6539adb.htm" />
+  <HelpTOCNode Id="f62e660e-425d-4610-9459-e286deb28d8a" Title="Version History" Url="html/e7e7f769-1edf-4d58-9fd2-34d73284d30e.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/cd0fc976-a517-4cde-9181-4d57cbf43a85.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="7b17345f-f28d-41f5-b753-5339a7605fe7" Title="Baku.LibqiDotNet" Url="html/857c1189-ce0b-215a-f577-5f63f5abbb1b.htm">
+    <HelpTOCNode Id="846219b8-45e4-4ef6-809b-00e9c916b93c" Title="QiAnyValue クラス" Url="html/b071dcd2-9aab-34d4-8f0c-232864f50546.htm">
+      <HelpTOCNode Title="QiAnyValue コンストラクター " Url="html/2dae55e7-1f8f-0b4a-e7c0-37d5e6a731a6.htm" />
+      <HelpTOCNode Id="c46f010d-5831-4579-9176-7ad1ec725728" Title="QiAnyValue プロパティ" Url="html/0771880e-e940-9403-6476-a3ea46bf9915.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/f3935a4a-e843-0a8c-0f0b-6e6296603a34.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/3c57b6f1-bf9b-8918-184e-a3d3e30dd12a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ff6e318b-9cce-43dc-a6bd-1a1ac90dc709" Title="QiAnyValue メソッド" Url="html/d1be6a10-9cd7-12e4-ebca-d540fd2a699d.htm">
+        <HelpTOCNode Title="Dump メソッド " Url="html/f903a1af-15a9-a627-0ad0-163d3f5cc66e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0e107d47-53c5-4063-9ffb-0e1c26b75713" Title="QiAnyValue 型変換" Url="html/51c535d9-c5c8-b9a4-6401-1ca1974bf44a.htm">
+        <HelpTOCNode Id="03ddfa26-eeaa-47b4-9c10-69c1532b3c8f" Title="Implicit 変換演算子" Url="html/7836b795-8c60-0f69-8f48-9f824b57a30a.htm">
+          <HelpTOCNode Title="Implicit 変換 (Boolean to QiAnyValue)" Url="html/91588683-5469-0827-d350-d18a9de11e87.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Byte to QiAnyValue)" Url="html/14dc9670-e524-541c-a06b-5827cf7fd13b.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Byte[] to QiAnyValue)" Url="html/9074043c-4b34-6929-1259-3208abb47bd1.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Double to QiAnyValue)" Url="html/29fffc6f-aff7-9111-188d-8dc9412dd5b0.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Double[] to QiAnyValue)" Url="html/9f73faf3-7e08-12e2-b69c-859916aa4e7e.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Int16 to QiAnyValue)" Url="html/f2693208-dbd6-0abe-54a0-85ee9d12a2f3.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Int32 to QiAnyValue)" Url="html/2f1cc1ce-2c6c-73f3-0ba2-5cce52f1d323.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Int32[] to QiAnyValue)" Url="html/3e380fa7-ef93-c89a-4fe0-395126c4e536.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Int64 to QiAnyValue)" Url="html/7fb63773-fdf6-36f4-4e4c-4a4b9e1650fc.htm" />
+          <HelpTOCNode Title="Implicit 変換 (SByte to QiAnyValue)" Url="html/ef113956-68a1-8be5-c2aa-778c393497f8.htm" />
+          <HelpTOCNode Title="Implicit 変換 (Single to QiAnyValue)" Url="html/ccb0bfb7-54bd-0598-f807-7fac4ac4307a.htm" />
+          <HelpTOCNode Title="Implicit 変換 (String to QiAnyValue)" Url="html/feac69bf-bd04-584b-105c-d8d73feff915.htm" />
+          <HelpTOCNode Title="Implicit 変換 (String[] to QiAnyValue)" Url="html/548ea425-8134-8e05-2b53-09de5a9dc593.htm" />
+          <HelpTOCNode Title="Implicit 変換 (UInt16 to QiAnyValue)" Url="html/a1ee4f57-3f96-2f85-34bb-fe5e8f507f2e.htm" />
+          <HelpTOCNode Title="Implicit 変換 (UInt32 to QiAnyValue)" Url="html/cb543ddb-a2d2-82af-3b31-59f2a0938aa7.htm" />
+          <HelpTOCNode Title="Implicit 変換 (UInt64 to QiAnyValue)" Url="html/3544168b-13ac-f4cd-cb33-5a4740f2ba95.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2efbb030-2663-4f15-a7d0-3eade95955bf" Title="QiApplication クラス" Url="html/6216c710-5774-235e-b0bd-5ae359db780c.htm">
+      <HelpTOCNode Id="54334441-5328-4b6c-bfff-362dfb60bd2d" Title="QiApplication プロパティ" Url="html/42f31214-b1d1-db22-1451-8255e690631c.htm">
+        <HelpTOCNode Title="IsApplicationInitialized プロパティ " Url="html/2ab68d17-924c-d3f4-c93b-590229358e12.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c5cbfa98-eed6-403b-97f7-da71922893ea" Title="QiApplication メソッド" Url="html/fc2a2fad-d502-0be3-71ac-c37b6db7adff.htm">
+        <HelpTOCNode Id="6239b48f-40d7-41d5-93cd-d0b04ecae1b3" Title="Create メソッド " Url="html/65abc1d2-876d-5739-d997-bb504e60bd91.htm">
+          <HelpTOCNode Title="Create メソッド " Url="html/23ee6aab-211c-a26f-73f3-eb466ebe8d95.htm" />
+          <HelpTOCNode Title="Create メソッド (String[])" Url="html/08f5fde8-3305-6f0e-51a7-f1f53ac7c0f0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Destroy メソッド " Url="html/1d7cb45e-0377-87c4-a2c6-595ffa4d8db8.htm" />
+        <HelpTOCNode Title="Run メソッド " Url="html/bde7b0b3-c00a-32ad-a495-dadb00f46651.htm" />
+        <HelpTOCNode Title="Stop メソッド " Url="html/61d9cb30-e5fa-da2b-89b3-03115e24572e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6e40af01-05e7-46b9-b42a-af0c49fb7971" Title="QiBool クラス" Url="html/540bcf71-f28d-e8f8-42c6-36ab75542c6d.htm">
+      <HelpTOCNode Title="QiBool コンストラクター " Url="html/67881646-f7a9-d75a-0268-9058df515142.htm" />
+      <HelpTOCNode Id="b11296a4-f0b7-46d6-a14d-fe5cdca96949" Title="QiBool プロパティ" Url="html/cd0dc962-38a5-7ce0-6aa1-f0e623967141.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/f7b1f993-3eec-1123-d41a-bba520e78c98.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/8c5e3ce5-051b-c0d4-4861-e0aa175db7df.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/88aeab98-af43-0bb7-25fc-d5b8ab6d78ae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiBool メソッド" Url="html/0b8e56a0-b94d-1507-0c8e-85cc9a477f9d.htm" />
+      <HelpTOCNode Id="bc537561-e99f-4569-80dc-4cf95bd1d2c6" Title="QiBool 型変換" Url="html/f28e33cf-9346-72b9-ad82-46afa22ed910.htm">
+        <HelpTOCNode Title="Implicit 変換 (Boolean to QiBool)" Url="html/2afaabbc-5c57-5c8c-fb79-9cbff3770525.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f3cd74bd-fad5-4cf1-9e95-aeef70205209" Title="QiByteData クラス" Url="html/47f4c2f8-90b4-e749-af79-67c6424a5d7d.htm">
+      <HelpTOCNode Title="QiByteData コンストラクター " Url="html/0967751c-5b4b-4ad7-b9cf-ba569107dc02.htm" />
+      <HelpTOCNode Id="8c1f2e27-7265-4408-ba8a-65056e7d54d2" Title="QiByteData プロパティ" Url="html/b0a9753a-2f00-299e-33b2-0237c4358371.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/7a93e199-f945-7b5f-7afe-98ee82efd1d6.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/1e283889-3209-acf9-8af5-f9b92cd5c0ac.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/5170a5e0-269c-3505-3991-e65aae34b30b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiByteData メソッド" Url="html/9d41aa9a-107c-8225-4ce9-e98d37b6bce4.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2ab5cfbf-7201-4b4a-b25d-bd272a1434bc" Title="QiDouble クラス" Url="html/a49c7870-617f-4f3d-b3e4-dd46160ba05a.htm">
+      <HelpTOCNode Title="QiDouble コンストラクター " Url="html/878cfaa9-27b5-2297-5cd3-e1cde7bc0164.htm" />
+      <HelpTOCNode Id="ac901cbf-fdff-4be8-8196-a6dd8dd94d49" Title="QiDouble プロパティ" Url="html/df658c71-4901-7e80-a653-3c06180a124d.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/6d3fa5b0-6de8-af59-ec24-8f585c3710c2.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/f18d6b22-f6b8-17a7-438f-e274c3e04d34.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/60e374ce-64be-5851-ec4a-40b82e9b28fd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiDouble メソッド" Url="html/1f50c88f-e840-c8de-9ef3-16b204b66a05.htm" />
+      <HelpTOCNode Id="0f42366d-6d33-4cd4-a29a-3c61cdf30251" Title="QiDouble 型変換" Url="html/c00e43fd-fe2b-c580-c415-25cdfb123856.htm">
+        <HelpTOCNode Title="Implicit 変換 (Double to QiDouble)" Url="html/c58974ef-c1d3-6bd0-4849-e97b31aee1ec.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aa5f3b5c-9986-4ee5-a1cc-a3d85e484a06" Title="QiDynamic クラス" Url="html/5dff1bfd-9cd4-6eaf-2407-ca4232cb9f16.htm">
+      <HelpTOCNode Id="878023fb-317d-4921-9a1a-e906168a8960" Title="QiDynamic コンストラクター " Url="html/bd2dee6c-648d-2b85-e2d6-1a86f678f153.htm">
+        <HelpTOCNode Title="QiDynamic コンストラクター (QiAnyValue)" Url="html/f48e5a2e-188c-ba4f-2f12-42cbe2470c06.htm" />
+        <HelpTOCNode Title="QiDynamic コンストラクター (QiValue)" Url="html/df1ae830-1ac7-6a29-d1a9-f3a21a71ad25.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2992ba39-79b3-4850-8544-d31df18af25d" Title="QiDynamic プロパティ" Url="html/850a0e3d-b5d8-eca7-6b25-fc468872fcb8.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/68f3b49a-e685-96b7-3f9f-fea7fd2543fe.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/ed6c93c8-eef6-493a-f7c2-be65a744ed99.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/3ad91d39-bcb0-394a-268e-c3a97b6f5f66.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiDynamic メソッド" Url="html/cff6cd7a-25d9-bd7a-f049-62c0790ecc4b.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="735e9bb0-f160-46c5-af71-3c26f8a8e86b" Title="QiDynamicExtension クラス" Url="html/d7959a3e-1890-74dd-9f9f-3e0a0c9b7abb.htm">
+      <HelpTOCNode Id="74459c51-0b19-4531-8adf-448dd3295462" Title="QiDynamicExtension メソッド" Url="html/13ae1cc8-54d9-43f4-7700-062cac2bfd1c.htm">
+        <HelpTOCNode Title="ToDynamic メソッド " Url="html/c5b6836a-aacf-77e6-2b3d-c7000101fafc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="241af626-533c-419c-8ba8-f93c80fa9b36" Title="QiFloat クラス" Url="html/00af00a7-0560-4cf2-6e47-cee639ae6e1e.htm">
+      <HelpTOCNode Title="QiFloat コンストラクター " Url="html/5990635f-47c2-75e8-9080-8a45fcfc4b09.htm" />
+      <HelpTOCNode Id="c83d885d-5f9d-4fb4-840a-c104b9a7bde7" Title="QiFloat プロパティ" Url="html/53b43b02-5b7f-622b-cd76-af2624ed81af.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/a69e7d1e-6cd4-5c6a-89e0-b52e09687c34.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/5805ac7a-f2f4-3825-dd20-64a21b9b545b.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/f8987485-6a80-5c4d-fb49-21f1faa2d8fc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiFloat メソッド" Url="html/d6fee1b6-7fc6-f8cb-26d1-0a9b2103607a.htm" />
+      <HelpTOCNode Id="1eced48d-b9ac-483c-b5e3-18b8c18dc58d" Title="QiFloat 型変換" Url="html/721e073f-514d-3a23-04b8-4c8fb78e1580.htm">
+        <HelpTOCNode Title="Implicit 変換 (Single to QiFloat)" Url="html/f7297437-84b1-a9c7-3bef-4ab96e9fe4cc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="238e4a0a-6b14-4edb-baa4-17b829a9ef33" Title="QiFuture クラス" Url="html/78c65c90-8c76-cb79-b61d-59ca61c280a2.htm">
+      <HelpTOCNode Id="bb448d82-909c-4dd4-b922-35d6c3ae5ad4" Title="QiFuture プロパティ" Url="html/40292eb6-a002-01cd-ae10-d4bb3a0e067a.htm">
+        <HelpTOCNode Title="InfiniteTimeout プロパティ " Url="html/f5b5b618-1c97-deb8-2389-8e13ad3de5b0.htm" />
+        <HelpTOCNode Title="IsCanceled プロパティ " Url="html/873fc903-8477-ff27-a3fd-9e19c64e3ea4.htm" />
+        <HelpTOCNode Title="IsFinished プロパティ " Url="html/8d50deb8-a7c1-75fd-9b8f-1961d34d1f48.htm" />
+        <HelpTOCNode Title="IsRunning プロパティ " Url="html/a6381e8e-df13-a041-e638-9bd99568d7e3.htm" />
+        <HelpTOCNode Title="NoneTimeout プロパティ " Url="html/6ab4a143-c78f-9d93-9325-acf1b7c703ae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8e86be5-02f4-4a0f-9ddd-1770aa82d1fc" Title="QiFuture メソッド" Url="html/92bbf80d-8072-a991-88a5-956600d3f349.htm">
+        <HelpTOCNode Id="f8fd4154-cb65-4ca7-b88e-1b3ece54c436" Title="AddCallback メソッド " Url="html/d3d22293-f5b8-2e27-3a2f-1e6295fdf9cb.htm">
+          <HelpTOCNode Title="AddCallback メソッド (Action(QiFuture))" Url="html/6a15ed6f-b545-ff4f-e351-23605536d8c0.htm" />
+          <HelpTOCNode Title="AddCallback メソッド (Action(QiFuture, IntPtr), IntPtr)" Url="html/e8112a0b-daf0-a98a-c71e-7459eae32b20.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Cancel メソッド " Url="html/26eb280c-3475-7e13-b551-da1f3c617ee0.htm" />
+        <HelpTOCNode Id="788be3f9-f771-48ba-9425-a9ee55f2c1f4" Title="CheckHasError メソッド " Url="html/e045f9fd-5ae1-ab64-8484-ba6c4f064c12.htm">
+          <HelpTOCNode Title="CheckHasError メソッド " Url="html/b9c56ec3-8bdf-0083-a5da-18b1a0ca5a75.htm" />
+          <HelpTOCNode Title="CheckHasError メソッド (Int32)" Url="html/07643ea9-59ba-7b43-970c-5511493a2687.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9cc24686-e42e-47bc-b829-624b5fb9b350" Title="CheckHasValue メソッド " Url="html/01053875-ce50-d027-8a7a-0b8c0bc1f356.htm">
+          <HelpTOCNode Title="CheckHasValue メソッド " Url="html/93bce1fe-7265-6cc6-8fde-0ebea15cad50.htm" />
+          <HelpTOCNode Title="CheckHasValue メソッド (Int32)" Url="html/4f08153f-c438-6e3c-939b-655349cebccc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CloneFuture メソッド " Url="html/0a724168-78d6-a128-f3b8-1e0edc45fb4c.htm" />
+        <HelpTOCNode Title="Destroy メソッド " Url="html/385822ea-bf62-5138-3fb2-5e492695063f.htm" />
+        <HelpTOCNode Title="GetError メソッド " Url="html/42e43a60-43b4-9d9b-5bb9-4b3ab55c1392.htm" />
+        <HelpTOCNode Title="GetInt64 メソッド " Url="html/de139171-0781-51ff-7122-000ae7d93fde.htm" />
+        <HelpTOCNode Title="GetObject メソッド " Url="html/ed5c6d9c-8c72-4ea2-f5df-4e2626e938ed.htm" />
+        <HelpTOCNode Title="GetString メソッド " Url="html/6a13087a-0d07-cf64-718c-5f174028b1c2.htm" />
+        <HelpTOCNode Title="GetUInt64 メソッド " Url="html/e97b833a-44db-a5aa-5821-53506accc6a7.htm" />
+        <HelpTOCNode Title="GetValue メソッド " Url="html/34f09995-f1c3-9fc8-ab4b-55bbb3788a9c.htm" />
+        <HelpTOCNode Id="f846766b-fadb-4866-adc7-fbe143a7d8ac" Title="Wait メソッド " Url="html/123afcc6-28c8-ae75-cb15-021f6f232d57.htm">
+          <HelpTOCNode Title="Wait メソッド " Url="html/318d4046-8ad5-624b-4690-d33b2597a613.htm" />
+          <HelpTOCNode Title="Wait メソッド (Int32)" Url="html/11e51aa7-57c5-5848-e30f-18bbd7e2b0fa.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="QiFutureCancel デリゲート" Url="html/95459ca8-dd09-bffe-9e5d-724c4106d644.htm" />
+    <HelpTOCNode Id="e89cec72-c099-4c88-acef-075036f1fa29" Title="QiInt16 クラス" Url="html/a0bc0787-b449-babd-ab3d-341c288cfa33.htm">
+      <HelpTOCNode Title="QiInt16 コンストラクター " Url="html/99af0e94-3592-ad1c-6faa-cb4a5ba2d8be.htm" />
+      <HelpTOCNode Id="7e04ea92-49d2-4ffe-a862-c533e57cffb6" Title="QiInt16 プロパティ" Url="html/df6fbdb4-c120-7436-b806-450c96db1e5a.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/2e4f4b6f-2b01-1baa-ee7c-a110f4313c3e.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/d66abaf3-0c47-2c23-121b-adffaa0e0be6.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/358455a6-7ffa-8df2-9d97-c32f817740a4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiInt16 メソッド" Url="html/087b6899-e49a-b02c-b50d-bf33de79707a.htm" />
+      <HelpTOCNode Id="c325db1e-d9fc-4054-ad50-d0bb60a54f6d" Title="QiInt16 型変換" Url="html/d18a2342-e31c-00f6-d526-e4845576158c.htm">
+        <HelpTOCNode Title="Implicit 変換 (Int16 to QiInt16)" Url="html/a29c06bf-ce86-7347-52fb-6e9b58b1016a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd0e89e0-f934-4fb9-b088-bb970d4172b7" Title="QiInt32 クラス" Url="html/ab7b6fbb-21a7-1535-687a-9111ad404917.htm">
+      <HelpTOCNode Title="QiInt32 コンストラクター " Url="html/5e14aac2-6c53-a7d9-66dd-4e886cda0156.htm" />
+      <HelpTOCNode Id="eb3dc9c5-db26-49e6-8805-3c7b5d29b467" Title="QiInt32 プロパティ" Url="html/9b6409b1-1ec8-1f29-b913-a939ded28ace.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/54d11e34-f53f-38ec-a921-f675de51cfca.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/294085f6-2852-9dfd-3842-cdac06032c7d.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/64e0d7fa-e7ab-2cd3-3d80-8c2de4841819.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiInt32 メソッド" Url="html/6ee3dc6a-1e1e-0c1b-8e07-6db3923026b7.htm" />
+      <HelpTOCNode Id="ac40e4be-2c18-476f-b19d-c980d6215dcf" Title="QiInt32 型変換" Url="html/41d00085-0603-1978-0e87-1da02497c9bb.htm">
+        <HelpTOCNode Title="Implicit 変換 (Int32 to QiInt32)" Url="html/1b251cde-5a95-20b7-fa9e-863c3e2fb97a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="89022caa-85af-4d64-9274-af6f639706c5" Title="QiInt64 クラス" Url="html/988072db-8267-442c-594a-0c246e9d2269.htm">
+      <HelpTOCNode Title="QiInt64 コンストラクター " Url="html/865b874f-1c14-faca-2baa-306ee693c74f.htm" />
+      <HelpTOCNode Id="f14bc1c0-708f-4990-9853-f12316ec5667" Title="QiInt64 プロパティ" Url="html/32395080-f17e-603a-4729-65735eb119af.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/222b9bfa-a5be-fdb6-cdc9-7f4d430153b1.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/16ba87b8-a444-77ed-13a3-c3ed220543b3.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/58f48dc0-972c-159f-4dab-688f2c7a1ecb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiInt64 メソッド" Url="html/7e5f1ac5-9bfd-fec7-c044-06841ea34d54.htm" />
+      <HelpTOCNode Id="7bc598d4-2110-41f4-bf7a-f31407d72d31" Title="QiInt64 型変換" Url="html/7eeabb9e-eaba-6feb-370b-85f3321a56c8.htm">
+        <HelpTOCNode Title="Implicit 変換 (Int64 to QiInt64)" Url="html/211f16c9-7d7c-f541-2d32-42fa35d85a58.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="84f5c428-a877-43ec-9658-6248e77b8fe8" Title="QiInt8 クラス" Url="html/9918e558-18d6-ab60-b6c5-a487f64c3347.htm">
+      <HelpTOCNode Title="QiInt8 コンストラクター " Url="html/a7490faf-b7e4-1d5e-07c2-4b4b67e1874f.htm" />
+      <HelpTOCNode Id="cdd6a533-f1b9-4f5a-9706-886450ec87e7" Title="QiInt8 プロパティ" Url="html/7a39e8b8-5714-ca4f-1769-c153ebe6b50b.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/8d42f68f-6d2d-56fb-caa5-48f089afaccb.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/e2fc22c4-1914-3cff-be16-f6007d8fdac5.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/c77663f6-5e9b-5f01-ecf1-0e8c77fe306b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiInt8 メソッド" Url="html/cde45182-3550-3d3a-97c7-e84a5860f558.htm" />
+      <HelpTOCNode Id="8f837542-261e-43f3-b409-8dd63f760279" Title="QiInt8 型変換" Url="html/1d22f537-c472-751a-8db7-e85e16496a26.htm">
+        <HelpTOCNode Title="Implicit 変換 (SByte to QiInt8)" Url="html/aab425da-a811-4603-333b-767aed027403.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="057faf6e-dc8c-4baa-bbda-3eb69ac062b6" Title="QiList クラス" Url="html/1a1f755e-3661-f86b-34e4-3e918448a366.htm">
+      <HelpTOCNode Id="f0ae76b3-cd02-40a1-89c4-26510bc2b992" Title="QiList メソッド" Url="html/618f41d7-4683-7de9-44dc-feae11e36330.htm">
+        <HelpTOCNode Id="1726b4d4-e512-49cf-aa24-882c0bfcf8c5" Title="Create メソッド " Url="html/d8edd86f-db91-18c8-56a7-a2ac02f387bb.htm">
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Boolean))" Url="html/7ea45e54-98da-6792-5127-88a9c8638c81.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Byte))" Url="html/73ea97fa-f274-7473-da69-9b60b413abe0.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Double))" Url="html/a8fb9737-1515-e9b9-dca7-4a8103e776c5.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Int16))" Url="html/c0720302-fefb-671d-d3a6-77d8fff3037d.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Int32))" Url="html/0fc27604-d699-f3bb-4541-336115863226.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Int64))" Url="html/344200fb-870b-de26-6eb9-245740a1ca59.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(SByte))" Url="html/a9eb13da-bfbd-100e-4ef9-edc9124873f6.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(Single))" Url="html/f6af1828-d41a-1cfc-d477-4923020bc3f3.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(String))" Url="html/5946e1dd-068a-087e-1f62-2a88da418b92.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(UInt16))" Url="html/b48b3dd6-6c34-3b94-b907-25cc5027b16f.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(UInt32))" Url="html/06a65579-4521-9855-a1e1-50fb50a61d1c.htm" />
+          <HelpTOCNode Title="Create メソッド (IEnumerable(UInt64))" Url="html/3297fb3e-4415-d35e-faf2-661c2753a82f.htm" />
+          <HelpTOCNode Title="Create(T) メソッド (IEnumerable(T))" Url="html/be09e631-4adb-cfc3-f998-ccee9178b3c6.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateFrom(T) メソッド " Url="html/4c6471ec-4a12-14a5-22f0-41f4e22fe0f4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="85d0d933-6583-4c05-a352-f67f11daf0ce" Title="QiList(T) クラス" Url="html/f135f0ec-1914-3dc7-6549-60e482015de4.htm">
+      <HelpTOCNode Id="f08dc91f-be2a-4a2a-9b0e-dc567ffe2cb0" Title="QiList(T) プロパティ" Url="html/9e39191d-6300-0f92-bba9-08e2e5d894e3.htm">
+        <HelpTOCNode Title="Item プロパティ " Url="html/1cfc508d-d8a2-f46b-ee6a-df92845e2daf.htm" />
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/d23b70fe-4afc-f921-a374-8c7dc81155e4.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/99b6f128-8c92-73d4-9be6-193719e1072e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="19d8a842-daaf-48ed-a10e-275b5f85834b" Title="QiList(T) メソッド" Url="html/672a4459-49c0-75bf-9a4a-3b5c860c11af.htm">
+        <HelpTOCNode Title="Create メソッド " Url="html/0fbc51c3-fa09-e9f2-44d1-a219b9ae14ec.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2a9bbcb4-4148-44da-a8a8-aae633aef63c" Title="QiListBase クラス" Url="html/30a8fde9-ce0f-45e7-36c4-239d3ec6a7db.htm">
+      <HelpTOCNode Title="QiListBase コンストラクター " Url="html/d8ed10ba-21a4-7a8c-eaeb-76456790ba14.htm" />
+      <HelpTOCNode Id="d9751ac0-4bb4-4577-921e-2f9f75f14c35" Title="QiListBase プロパティ" Url="html/e4324292-b086-ff92-6b05-5c2fb05c1e98.htm">
+        <HelpTOCNode Title="Count プロパティ " Url="html/f43818b1-583a-7d88-49fe-01c2e14979a1.htm" />
+        <HelpTOCNode Title="Item プロパティ " Url="html/4174294f-74d3-45f2-7aeb-4de74b7e1653.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiListBase メソッド" Url="html/fe958ba3-6971-1ae5-ac76-b29de713ed80.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f34e63e1-6d94-4a55-94f2-dc7e003ade4b" Title="QiListExtension クラス" Url="html/b05c48e8-bf0d-5d8f-c93d-a4f47a14623b.htm">
+      <HelpTOCNode Id="f9302c98-07d4-4af2-8c80-c64b5c3f8321" Title="QiListExtension メソッド" Url="html/583dc1d1-4e71-d04f-37a4-2b97bfdfc6cf.htm">
+        <HelpTOCNode Title="ToQiList(T) メソッド " Url="html/23b3a01a-df71-7fe6-a16d-155ec452ca38.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ffe66100-92ea-43ef-a721-1cf87595fe33" Title="QiMap クラス" Url="html/a99b5996-427b-8c5f-e27b-ef7c087b95ce.htm">
+      <HelpTOCNode Id="e585c76b-a60f-4e2a-af56-46d048a0dbbe" Title="QiMap メソッド" Url="html/fd660ad0-7113-2270-ca49-60f2c74c0b42.htm">
+        <HelpTOCNode Title="Create(K, V) メソッド " Url="html/dd587d60-306f-98e3-624e-3334d439ed3b.htm" />
+        <HelpTOCNode Title="ToQiMap(K, V) メソッド " Url="html/9223ffab-a9a9-91f9-e56f-320daa184f53.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c443fe7-ad5d-459a-a9c9-cbbb379f3538" Title="QiMap(K, V) クラス" Url="html/4bb154ad-ddea-c952-1de7-efe22b6d998d.htm">
+      <HelpTOCNode Id="7ad92aaf-c528-48bb-9cb7-6d6248b9876a" Title="QiMap(K, V) プロパティ" Url="html/fe85907a-5f1d-dab7-526b-6c40ccb297be.htm">
+        <HelpTOCNode Title="Item プロパティ " Url="html/6543a89a-f857-255b-9ce9-8100cee3cd6c.htm" />
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/8ed65b43-6c64-72d1-70c7-4799c4ecce00.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/830382dc-0b6d-1fb2-9c00-326524ac5743.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d0cd1744-fc31-4404-abf4-d0ba9d9b2921" Title="QiMap(K, V) メソッド" Url="html/98191db4-029e-a357-8f3e-d8c526bf9d05.htm">
+        <HelpTOCNode Title="Create メソッド " Url="html/0e992f0f-05f8-71d4-2e51-7760f9e82848.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="84c6dbaa-cfae-476f-a747-613aa63aeb00" Title="QiMethod クラス" Url="html/a979aa10-eff5-7318-9ccb-1107ab970bcc.htm">
+      <HelpTOCNode Id="f04dac27-b3da-4c21-8d4e-cdb70a81eaf0" Title="QiMethod プロパティ" Url="html/57d6f2eb-d5e8-aa48-0370-f1f75c26bd10.htm">
+        <HelpTOCNode Title="Name プロパティ " Url="html/24437898-dd9b-d7e8-6c42-60502700a319.htm" />
+        <HelpTOCNode Title="Overloads プロパティ " Url="html/944b3376-5fc1-de9c-e826-45b52f24d9b8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3025088b-ee2c-489c-94e3-a50f81cefb89" Title="QiMethod メソッド" Url="html/00253d82-a012-35d0-3a24-390e908b61ce.htm">
+        <HelpTOCNode Title="Call メソッド " Url="html/39ca4606-efc2-cfe4-1465-36fbd421cb86.htm" />
+        <HelpTOCNode Title="CallObject メソッド " Url="html/bfe09765-cd48-b1ec-5f72-da54542fb0a1.htm" />
+        <HelpTOCNode Title="Post メソッド " Url="html/4ead864a-7e96-9316-381e-22497d6826ab.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f7be44c7-fae5-4caa-8d6b-b89e381bc4d7" Title="QiMethodArgumentInfo クラス" Url="html/6ea651b6-17d8-d197-0d9f-62e3b6b9980d.htm">
+      <HelpTOCNode Id="ade54dbd-82e1-4495-b74a-140255d6e864" Title="QiMethodArgumentInfo プロパティ" Url="html/a89e3b70-edf0-c5ef-d643-d5ac2a6361f0.htm">
+        <HelpTOCNode Title="Description プロパティ " Url="html/af02bc65-5d03-3e75-4f71-45b0a915f2e6.htm" />
+        <HelpTOCNode Title="Name プロパティ " Url="html/63675ed0-9b3a-0d26-dbcf-fe1cd54fb0ab.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiMethodArgumentInfo メソッド" Url="html/65be1ca9-266b-7f65-4111-5d01e5cc9dbf.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e114685a-ab23-4718-a521-dfa3478c5c9a" Title="QiMethodInfo クラス" Url="html/bff53782-c2b1-cfbe-8016-be13b99a80c7.htm">
+      <HelpTOCNode Id="9fb7824e-ac0c-4e91-b946-24016a8d5a88" Title="QiMethodInfo プロパティ" Url="html/e1b64812-1aa0-61e6-16c6-072088b2dd93.htm">
+        <HelpTOCNode Title="ArgumentSignature プロパティ " Url="html/0385c7f4-941a-d82c-e009-d4856b14b069.htm" />
+        <HelpTOCNode Title="ArgumentsInfo プロパティ " Url="html/51127d76-4c00-bb78-2beb-a9202e9bc8f5.htm" />
+        <HelpTOCNode Title="Description プロパティ " Url="html/ae04f63b-6f9b-6d42-d0e4-cf6c677accda.htm" />
+        <HelpTOCNode Title="Name プロパティ " Url="html/45a1c4a1-2997-d25d-f9fe-fc71f802de4d.htm" />
+        <HelpTOCNode Title="ReturnValueDescription プロパティ " Url="html/d960d026-9691-4ce3-d1a3-d3b859fdf635.htm" />
+        <HelpTOCNode Title="ReturnValueSignature プロパティ " Url="html/08cff659-38f6-b8c9-a56d-c4836bab2de9.htm" />
+        <HelpTOCNode Title="UID プロパティ " Url="html/33a15863-64dd-dcec-da6a-0e6221c0bac6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiMethodInfo メソッド" Url="html/76528d98-661e-393c-8edd-c2b9be0a8942.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="85351432-e966-4d1c-92a6-ea970ebaffd4" Title="QiMethods クラス" Url="html/1ff30978-9e08-d455-214b-f6fc294ef304.htm">
+      <HelpTOCNode Id="607504e9-bbdb-4332-ac66-76f79986cb91" Title="QiMethods プロパティ" Url="html/fa1c6ec3-ab25-fd25-c436-80ef06a1ca95.htm">
+        <HelpTOCNode Title="Item プロパティ " Url="html/7ec67a7b-e5a8-8509-b6af-4d1aa5168fb9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiMethods メソッド" Url="html/80b6f822-e773-7559-484d-dd29dc7f935c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b0394559-73a0-45c4-951d-3e76e693a744" Title="QiMethodSignature クラス" Url="html/6f8fb5c3-e2a7-2740-a97c-f3025e2006c6.htm">
+      <HelpTOCNode Id="af3837a8-216e-4a07-afd8-55ebe7e9b0ed" Title="QiMethodSignature プロパティ" Url="html/8e91418b-28eb-4cd2-2b1b-b906f7528a6a.htm">
+        <HelpTOCNode Title="Signature プロパティ " Url="html/cb2da7af-af0d-fada-85ae-484425e8ae97.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="957a9eab-1135-4089-9930-663e262c9984" Title="QiMethodSignature メソッド" Url="html/b4dc5936-8624-b122-6491-a75bc088007d.htm">
+        <HelpTOCNode Title="Create メソッド " Url="html/1894f150-2979-adde-2e1a-295d692534f6.htm" />
+        <HelpTOCNode Title="ListOf メソッド " Url="html/19b8d233-65dd-c74d-104b-974a36ecf268.htm" />
+        <HelpTOCNode Title="TupleOf メソッド " Url="html/1818e3e6-d5e6-3ce9-865c-d8fc066a6d55.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="QiMethodSignatureKind 列挙型" Url="html/00fe208c-30c1-d9dc-cf9b-e38782251a55.htm" />
+    <HelpTOCNode Id="9a146fe1-7314-466f-bd46-8433609ebe48" Title="QiObject クラス" Url="html/297db3e6-ccae-1e9a-d8e4-d099c463cf8d.htm">
+      <HelpTOCNode Id="1782b8a8-f2dd-4d36-b41a-2d524ed86ef2" Title="QiObject プロパティ" Url="html/559cacf4-588d-1287-4f8d-81d42cf0bb08.htm">
+        <HelpTOCNode Title="Description プロパティ " Url="html/62c3d6a3-48b3-ab7b-bd9f-c1151d1c6d55.htm" />
+        <HelpTOCNode Title="Item プロパティ " Url="html/86db963b-a999-acf6-8c5e-4e94342d387c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80a32d5e-6955-45f7-b729-c742c4c72d5c" Title="QiObject メソッド" Url="html/b2e03063-ed96-ba88-2458-2e1d1d5a25b0.htm">
+        <HelpTOCNode Title="CallDirect メソッド " Url="html/3de97f1a-e8d4-2cda-cf06-33e67bd07d8c.htm" />
+        <HelpTOCNode Title="ConnectSignal メソッド " Url="html/858cea9a-4e8e-ddcc-6483-cfcc1fa52366.htm" />
+        <HelpTOCNode Title="Destroy メソッド " Url="html/adbdd9a4-c601-e9f9-3d3d-ec58e139b94a.htm" />
+        <HelpTOCNode Id="33c637eb-e782-4a5e-9df7-8e4dddd2c601" Title="DisconnectSignal メソッド " Url="html/587a3d5a-07c2-3443-84ba-82d58fb421ab.htm">
+          <HelpTOCNode Title="DisconnectSignal メソッド (UInt64)" Url="html/e26f6667-3b17-3a04-5c90-03b06b907673.htm" />
+          <HelpTOCNode Title="DisconnectSignal メソッド (Action(QiValue))" Url="html/1eaa5fe0-ef3d-07ad-e405-9cc3ff83d6b8.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetProperty メソッド " Url="html/bbf77843-feee-95bb-01b5-c2e57eb8ef11.htm" />
+        <HelpTOCNode Title="PostDirect メソッド " Url="html/90ff7854-d074-cf76-8d97-b59d9010eea5.htm" />
+        <HelpTOCNode Title="SetProperty メソッド " Url="html/9445841c-9de3-d241-6554-b027ba1fe86d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4579ff31-921b-4d3a-9403-a9a6a5cb7aee" Title="QiObjectBuilder クラス" Url="html/48bd5ec6-1d91-b5d1-3e81-62798126baa2.htm">
+      <HelpTOCNode Id="cacd1807-ee02-4358-bb1d-aaadfa8c8468" Title="QiObjectBuilder メソッド" Url="html/34330817-d192-5d3e-2fc0-ea1ce61ac1fa.htm">
+        <HelpTOCNode Id="9a09366b-df95-4b39-87e7-a957bfae82cd" Title="AdvertiseMethod メソッド " Url="html/48e59be0-8755-82b5-e544-e65a88d402dd.htm">
+          <HelpTOCNode Title="AdvertiseMethod メソッド (String, QiObjectMethod)" Url="html/6dde73be-f62b-5c83-8642-c9d9c2752778.htm" />
+          <HelpTOCNode Title="AdvertiseMethod メソッド (String, QiMethodSignature, IEnumerable(QiMethodSignature), QiObjectMethod)" Url="html/e9309ca0-0185-96c3-00cc-6245e0eb1c6c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AdvertiseProperty メソッド " Url="html/5156a94e-9acd-47d7-4920-99ee6d24e167.htm" />
+        <HelpTOCNode Title="AdvertiseSignal メソッド " Url="html/836c7774-1bad-0720-4b2b-4c76421fa108.htm" />
+        <HelpTOCNode Title="BuildObject メソッド " Url="html/d118c44d-d444-a533-e71d-8951626c0112.htm" />
+        <HelpTOCNode Title="Create メソッド " Url="html/54d168a2-8700-8d4a-072b-f24ba2fbe793.htm" />
+        <HelpTOCNode Title="Destroy メソッド " Url="html/75df6910-ccb1-cb04-880e-18545689a57c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="QiObjectMethod デリゲート" Url="html/c0b66040-8701-5d7e-cca7-58cc7f569998.htm" />
+    <HelpTOCNode Id="f1addc7f-1bc3-450c-af5b-147022e713de" Title="QiPromise クラス" Url="html/ed4a50d7-6fbf-c222-9c6d-066569dd9daa.htm">
+      <HelpTOCNode Id="aa172305-f92e-4866-852a-960ccec64872" Title="QiPromise メソッド" Url="html/a7b6cfce-03bc-ff79-cb7b-a6b61ffe7543.htm">
+        <HelpTOCNode Id="3fd88e4d-f9ee-4190-a3dd-6812bd20ca3d" Title="Create メソッド " Url="html/87d6234f-5545-e897-8144-caba96dc0fe0.htm">
+          <HelpTOCNode Title="Create メソッド (Boolean)" Url="html/0cbf9d1f-7bac-488e-b575-518e33849362.htm" />
+          <HelpTOCNode Title="Create メソッド (Boolean, QiFutureCancel, IntPtr)" Url="html/b28247c8-7834-2fcc-5aad-dbb1a4ecbc42.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Destroy メソッド " Url="html/5fc04e80-d6d5-d138-936e-f3e8838122c7.htm" />
+        <HelpTOCNode Title="GetFuture メソッド " Url="html/89cb7849-b5c9-3805-bc10-0feb570b6d14.htm" />
+        <HelpTOCNode Title="SetCanceled メソッド " Url="html/e3e5c320-663e-f525-0b39-9014bdf3cbda.htm" />
+        <HelpTOCNode Title="SetError メソッド " Url="html/eff72bf1-d7e4-59a5-7340-ba3fc3cc1d31.htm" />
+        <HelpTOCNode Title="SetValue メソッド " Url="html/46576edb-fd2c-a41a-794d-23dcd5f69ab4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c159110f-f845-469a-8fed-c2c03afde877" Title="QiSession クラス" Url="html/968349be-54d0-f7cf-5296-1b6d114518af.htm">
+      <HelpTOCNode Id="515f73ea-5c44-46ad-b805-e37026dcfa91" Title="QiSession プロパティ" Url="html/89486109-6e35-9b76-762f-77fff02b63ac.htm">
+        <HelpTOCNode Title="IsConnected プロパティ " Url="html/ed315207-3830-1f94-f12d-d4ab91034bef.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ae2c76c-731b-4b02-95a7-9d45f7b88c54" Title="QiSession メソッド" Url="html/65e35813-e779-a42a-f4c3-06448ca3df33.htm">
+        <HelpTOCNode Title="Close メソッド " Url="html/9e2af759-afe3-e004-da76-6dc39a0ba8e5.htm" />
+        <HelpTOCNode Title="Connect メソッド " Url="html/ea15a118-4749-7f01-c0a1-bf10e43eebf5.htm" />
+        <HelpTOCNode Id="4e65e360-42e0-4f20-8cbe-37428e460c0c" Title="Create メソッド " Url="html/ad7fc5a2-7993-8bbc-2ccb-8ef32c51ec69.htm">
+          <HelpTOCNode Title="Create メソッド " Url="html/6fc1cc33-619e-56f7-72b0-5b055c6069a6.htm" />
+          <HelpTOCNode Title="Create メソッド (String)" Url="html/d73cffba-8cc6-2268-32ef-f68ab1f55212.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Destroy メソッド " Url="html/2856409e-90c7-e3da-d0d5-e1b4bd0240d1.htm" />
+        <HelpTOCNode Title="GetEndpoints メソッド " Url="html/e2c4d2e9-f538-8d66-4b54-c68207283a43.htm" />
+        <HelpTOCNode Title="GetService メソッド " Url="html/b8ec924f-c644-bfc8-cc8a-c616cf6518ee.htm" />
+        <HelpTOCNode Title="GetServiceAsync メソッド " Url="html/129243df-00b3-48e6-982d-2170f15723db.htm" />
+        <HelpTOCNode Title="GetServices メソッド " Url="html/8c290c04-f719-7de1-30b0-0f2fd2b55dd5.htm" />
+        <HelpTOCNode Title="GetServicesAsync メソッド " Url="html/d0259433-f8cf-4bfd-96bf-a20dea405481.htm" />
+        <HelpTOCNode Title="GetUrl メソッド " Url="html/b5abd5af-89cf-560e-d890-06034788c598.htm" />
+        <HelpTOCNode Title="Listen メソッド " Url="html/0d7174fd-974b-7120-211b-a56f052ab4c8.htm" />
+        <HelpTOCNode Title="RegisterService メソッド " Url="html/8c4f0ef4-fbc8-5e28-c4b4-ddd7971ec921.htm" />
+        <HelpTOCNode Title="SetIdentity メソッド " Url="html/8739b1ed-fa5a-12f8-1144-02ebe5200ded.htm" />
+        <HelpTOCNode Title="UnregisterService メソッド " Url="html/bd7c7bc5-4f72-5049-401d-8f5ddf84a452.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="54ee7413-b813-4fbc-8c31-038a92bfd55b" Title="QiSignatures クラス" Url="html/0be19dad-876a-5e95-a811-7bc51b6303b2.htm">
+      <HelpTOCNode Id="92437e46-046d-4212-843f-ed33f5a55cf2" Title="QiSignatures フィールド" Url="html/461e3391-b5bc-3673-c16f-8e8daacfb64c.htm">
+        <HelpTOCNode Title="MethodNameSuffix フィールド" Url="html/0c864150-84a0-c9bd-b8cf-a45f84ed51de.htm" />
+        <HelpTOCNode Title="TypeBool フィールド" Url="html/d18a6450-0195-46cb-5f45-f21b74f63bf3.htm" />
+        <HelpTOCNode Title="TypeDouble フィールド" Url="html/15eee676-7e76-678e-b7e2-0d752ddcef7d.htm" />
+        <HelpTOCNode Title="TypeDynamic フィールド" Url="html/67372a21-dc46-57c4-f5bb-f2c424c21e86.htm" />
+        <HelpTOCNode Title="TypeFloat フィールド" Url="html/dcda6686-07cd-a83e-f355-7127cd45620e.htm" />
+        <HelpTOCNode Title="TypeInt16 フィールド" Url="html/b8b3e7dc-06ff-e9cd-93a5-2293e604581f.htm" />
+        <HelpTOCNode Title="TypeInt32 フィールド" Url="html/c3cd9597-2dfc-04cb-bda8-8a0a324bdbdd.htm" />
+        <HelpTOCNode Title="TypeInt64 フィールド" Url="html/7548fc4d-3c48-68c8-16a2-15236a1ed96d.htm" />
+        <HelpTOCNode Title="TypeInt8 フィールド" Url="html/cdfa268f-ec96-4628-612d-ca01de180710.htm" />
+        <HelpTOCNode Title="TypeKwArgs フィールド" Url="html/cc33a170-346e-44f8-5d56-79c61098c7dc.htm" />
+        <HelpTOCNode Title="TypeListBegin フィールド" Url="html/0e912ecc-f238-9add-f8dd-79dcdc1ed562.htm" />
+        <HelpTOCNode Title="TypeListEnd フィールド" Url="html/920bf21e-eebe-c0bb-41e1-03ae122df9a2.htm" />
+        <HelpTOCNode Title="TypeMapBegin フィールド" Url="html/ac34ca36-59dd-85b5-847a-30baf8a10739.htm" />
+        <HelpTOCNode Title="TypeMapEnd フィールド" Url="html/7c49f907-9586-65f2-2780-627a302796bc.htm" />
+        <HelpTOCNode Title="TypeNone フィールド" Url="html/40692307-b9a7-968d-4f43-a538ab3ee197.htm" />
+        <HelpTOCNode Title="TypeObject フィールド" Url="html/ef92e712-9598-119e-92a1-0264a5678115.htm" />
+        <HelpTOCNode Title="TypePointer フィールド" Url="html/24fc50d7-37d3-dd33-dcd8-9f464feeb2a4.htm" />
+        <HelpTOCNode Title="TypeRaw フィールド" Url="html/cf6923d1-a86a-2bed-3b74-3db303b7b383.htm" />
+        <HelpTOCNode Title="TypeString フィールド" Url="html/ce7bf0a7-4192-ef4b-de75-e512d4f32cf9.htm" />
+        <HelpTOCNode Title="TypeTupleBegin フィールド" Url="html/9037b7be-67b9-83b3-0bfe-2099b686637e.htm" />
+        <HelpTOCNode Title="TypeTupleEnd フィールド" Url="html/f8772ecb-8fa0-353f-33f5-b6bf816321c6.htm" />
+        <HelpTOCNode Title="TypeUInt16 フィールド" Url="html/cbadf421-51e3-957c-aeb4-31a62991ecd7.htm" />
+        <HelpTOCNode Title="TypeUInt32 フィールド" Url="html/a15b48a1-61d4-b97e-9eb9-17f6e37c3cfb.htm" />
+        <HelpTOCNode Title="TypeUInt64 フィールド" Url="html/c93a1e6e-1abd-4464-7882-3bb0dd965b28.htm" />
+        <HelpTOCNode Title="TypeUInt8 フィールド" Url="html/d82a3614-032d-f272-a00a-0b66c1d24d83.htm" />
+        <HelpTOCNode Title="TypeUnknown フィールド" Url="html/7285adb8-a345-2398-75c9-0353ce443601.htm" />
+        <HelpTOCNode Title="TypeVarArgs フィールド" Url="html/cd7750cb-8660-d39a-c692-ae635e15d105.htm" />
+        <HelpTOCNode Title="TypeVoid フィールド" Url="html/b49aa3a9-a84f-918b-bd23-557892ac2c50.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="71001244-ab7d-46c5-b3ee-31bc916fc73a" Title="QiString クラス" Url="html/ac63529e-6b7d-14e5-4360-5991b9a51024.htm">
+      <HelpTOCNode Title="QiString コンストラクター " Url="html/552bf1aa-9b51-7f1f-761e-91c1ec3c48b2.htm" />
+      <HelpTOCNode Id="625f90ad-781e-4e1e-bb2d-80521de8b5a3" Title="QiString プロパティ" Url="html/5c82fa3c-50fd-9af5-2011-78077e3b5b2f.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/a1bd55e4-9764-c369-bd6e-68f5775a2bf3.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/3d9d1202-b9d5-e2f1-a181-a1e487f5e9f9.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/3b3f0680-3264-1142-b241-4a5f03eeae08.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiString メソッド" Url="html/a8f236ae-dbd8-8923-e9ca-c7c42bfb2a6c.htm" />
+      <HelpTOCNode Id="0b954b4d-b757-4cc0-92eb-61039d2cf06e" Title="QiString 型変換" Url="html/4737c479-a0a8-4270-c3c6-6be0141f4cd8.htm">
+        <HelpTOCNode Title="Implicit 変換 (String to QiString)" Url="html/9bce1c0c-d69d-e31f-91cc-f7fb02a3dcce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="05308852-3577-4368-8ce7-c854b125cc4a" Title="QiTuple クラス" Url="html/46b6f543-3723-26d5-f6a1-47c1ab22e028.htm">
+      <HelpTOCNode Id="10207088-ca97-4725-8f4a-062a6693cadc" Title="QiTuple プロパティ" Url="html/fb4624a9-a5a9-41f6-493a-d30b25fe9f7c.htm">
+        <HelpTOCNode Title="Count プロパティ " Url="html/4b4ac634-ec5a-ce26-382d-8865d8ebdd6a.htm" />
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/679096d2-b8c3-380f-97cb-3188be781551.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/7f0cac78-ba1d-d137-e23c-929172265a37.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f4e7f8a9-0f2b-420c-8f88-81e6b6e66cb0" Title="QiTuple メソッド" Url="html/e32b7a9a-c373-832b-928e-80b744e0c388.htm">
+        <HelpTOCNode Title="Create メソッド " Url="html/9c1e0413-63ca-5cea-1012-5044aacad57c.htm" />
+        <HelpTOCNode Title="CreateDynamic メソッド " Url="html/069a8cd1-92ae-33eb-4bc9-a3aef8b7d9dd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="144a8226-45d6-47bb-b86a-557f3541bc22" Title="QiType クラス" Url="html/4272e4b5-dbd3-daa0-3ffa-d1898d78b141.htm">
+      <HelpTOCNode Id="96433d46-f001-41b0-a2d1-b11c8439fa46" Title="QiType プロパティ" Url="html/5c4ef583-59bc-1260-eb18-0faae5be4df5.htm">
+        <HelpTOCNode Title="TypeKind プロパティ " Url="html/04ceca8e-8ce4-27d0-52d5-2a9b37ba42ae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="516dd23e-1980-4a85-938a-295e3ad4eaab" Title="QiType メソッド" Url="html/8875e273-3db6-3746-26c3-90860cde2f41.htm">
+        <HelpTOCNode Title="GetMapKeyType メソッド " Url="html/b1890eeb-0761-4a2c-6fd1-49365f4c0195.htm" />
+        <HelpTOCNode Title="GetMapValueType メソッド " Url="html/32c11fef-0b47-ff06-68b4-ba03aaa93995.htm" />
+        <HelpTOCNode Title="GetTupleCount メソッド " Url="html/30857beb-0e6e-8667-aea6-7bf3d33a702f.htm" />
+        <HelpTOCNode Title="GetTupleTypeAt メソッド " Url="html/9bb46df8-fd57-47e2-d322-8172efac6003.htm" />
+        <HelpTOCNode Title="GetTupleTypes メソッド " Url="html/44e1700a-36a2-2f58-109f-1441a9580b00.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="QiTypeKind 列挙型" Url="html/a2f10375-20f5-e935-9f78-132c1759d6d6.htm" />
+    <HelpTOCNode Id="6952f7bb-706e-4b45-b0fc-8075508dced0" Title="QiUInt16 クラス" Url="html/ba1f483c-2c96-91ce-0b8e-210cd0eec86a.htm">
+      <HelpTOCNode Title="QiUInt16 コンストラクター " Url="html/8cd0c02e-1112-0c8c-a6ff-5f37b05b641e.htm" />
+      <HelpTOCNode Id="5b57e308-c0bd-4c1b-91ef-830be7295079" Title="QiUInt16 プロパティ" Url="html/bdf50fb3-042b-ff3c-4397-3fda554a0933.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/cc642ead-613a-639c-e9e8-18a33a5cd58e.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/3418c63f-3b58-bbe8-6583-2c66589f6054.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/a74b584b-9557-8931-f995-6dd0c40268fb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiUInt16 メソッド" Url="html/3ef3081a-7709-639d-22af-3d567f80c42b.htm" />
+      <HelpTOCNode Id="646ce096-d19c-4791-9cde-de66b958edcb" Title="QiUInt16 型変換" Url="html/3597b590-f688-1424-12a7-a228a6ad3405.htm">
+        <HelpTOCNode Title="Implicit 変換 (UInt16 to QiUInt16)" Url="html/0ea48775-4e6c-4cf5-c088-d3384b34bc5f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad51b8d2-9c2e-4402-90fa-4c5a68986de6" Title="QiUInt32 クラス" Url="html/5dd7993b-9e39-8515-4c38-547ed103aff5.htm">
+      <HelpTOCNode Title="QiUInt32 コンストラクター " Url="html/09dd9943-9f05-05bc-7c16-977622c50304.htm" />
+      <HelpTOCNode Id="2116e661-a621-4af5-ba3a-5ab54c994554" Title="QiUInt32 プロパティ" Url="html/b86143a7-7311-95c9-a203-9a27f08ef475.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/79326f07-2c79-7efc-6c5f-7279bf3dd233.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/ae13ea30-4b80-40ba-fc93-75e03fc08788.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/6df67486-5d5f-c659-08a1-ad6c86bb467f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiUInt32 メソッド" Url="html/c59aab08-b5d8-b364-72d0-0668b22b6446.htm" />
+      <HelpTOCNode Id="40f91c96-cff5-4db0-ad88-3890db96df22" Title="QiUInt32 型変換" Url="html/4b7ac464-0777-3305-8cc8-f40570d1d4af.htm">
+        <HelpTOCNode Title="Implicit 変換 (UInt32 to QiUInt32)" Url="html/fd0a4982-9771-06bb-352a-b99dd313e087.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a4e73f2-d4ce-4b2b-b472-08fea74f6892" Title="QiUInt64 クラス" Url="html/bca07291-5d7e-6eda-31bb-75953ebf032e.htm">
+      <HelpTOCNode Title="QiUInt64 コンストラクター " Url="html/d35ba289-b9ee-14c0-e8fa-c0582ef62e9f.htm" />
+      <HelpTOCNode Id="3a3c8e8d-b397-44e0-9425-78c55b3a2f93" Title="QiUInt64 プロパティ" Url="html/338f4b98-3855-c213-deb3-64a5c6bf47e3.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/f223efc3-6063-8e8f-0ebb-25e7326dafdf.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/97909257-a5cb-ccb0-cd96-861007bdbbea.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/7ac74c62-d36a-fcb5-5f28-b8af128b35ca.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiUInt64 メソッド" Url="html/5883e543-202a-a6e2-327f-c8f094e71b59.htm" />
+      <HelpTOCNode Id="a8cd766e-9894-4374-acbf-d172fb5c043c" Title="QiUInt64 型変換" Url="html/c4163f7c-01d6-c9ea-8f77-30369869c951.htm">
+        <HelpTOCNode Title="Implicit 変換 (UInt64 to QiUInt64)" Url="html/b8447aac-8b58-f19b-d2eb-b3502caeabd0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="adca907c-c50f-407f-b5a8-de7077308245" Title="QiUInt8 クラス" Url="html/c6d252aa-842a-e300-672d-3380865ddaf4.htm">
+      <HelpTOCNode Title="QiUInt8 コンストラクター " Url="html/7eef4aba-046f-bcf3-7086-3c9824649d60.htm" />
+      <HelpTOCNode Id="f853c558-d206-4a18-acc9-38b1998f91e2" Title="QiUInt8 プロパティ" Url="html/222464cd-e098-e363-9ade-4a6fd1f472c8.htm">
+        <HelpTOCNode Title="QiValue プロパティ " Url="html/fb51f421-5b67-8e7a-d4f1-bf5602ff1885.htm" />
+        <HelpTOCNode Title="Signature プロパティ " Url="html/496f169c-ff0d-6f93-f327-c04d2cdd28be.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/c93131a9-4fc6-01b5-28bb-3e7adedf5767.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="QiUInt8 メソッド" Url="html/fc18649c-ec7a-59b2-02fa-e5c685296ad2.htm" />
+      <HelpTOCNode Id="59a75463-0f63-4357-9a56-7e478f7190e3" Title="QiUInt8 型変換" Url="html/27dc6c99-4f4c-05af-3101-30aeed25e916.htm">
+        <HelpTOCNode Title="Implicit 変換 (Byte to QiUInt8)" Url="html/6540ec61-259b-3025-f127-c55a88355534.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="190533db-aff1-4498-884e-3fb858eb1538" Title="QiValue クラス" Url="html/ef6e8599-e3c8-9e7f-df05-52366916ae24.htm">
+      <HelpTOCNode Id="4abc8370-fbc3-434b-aec8-763acf5c6be7" Title="QiValue プロパティ" Url="html/83db825c-97f7-8593-cb59-3e6dc9b31caf.htm">
+        <HelpTOCNode Title="ContentValueKind プロパティ " Url="html/6c7cd443-3541-8041-bff5-f756aa9b89f9.htm" />
+        <HelpTOCNode Title="Count プロパティ " Url="html/290c9e9a-70ec-7b55-b082-f609e111de4a.htm" />
+        <HelpTOCNode Id="9f16f245-2764-491e-bd80-ed14adbdec58" Title="Item プロパティ " Url="html/7731708b-331c-cd43-50e1-3e77797e6c52.htm">
+          <HelpTOCNode Title="Item プロパティ (Int32)" Url="html/a624cec9-44dd-5f45-be3b-63ac1e26256e.htm" />
+          <HelpTOCNode Title="Item プロパティ (QiValue)" Url="html/35f4275e-2887-6ecc-f9c4-038b2a401975.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="NonDynamicValue プロパティ " Url="html/598f6b91-af92-02f0-8397-e71c414cd700.htm" />
+        <HelpTOCNode Title="Value プロパティ " Url="html/9f8731ff-0bcc-46a4-8431-e2c1d8d0b83d.htm" />
+        <HelpTOCNode Title="ValueKind プロパティ " Url="html/5b93404a-9c22-da97-5409-3d39010cd663.htm" />
+        <HelpTOCNode Title="Void プロパティ " Url="html/9d6f72a0-dec2-f657-4d18-1a03cae9a969.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cfd1292e-10ad-48a5-8a19-983b6e4c775f" Title="QiValue メソッド" Url="html/bd897cb7-ed0d-835d-3a05-8cfc6ef65f9c.htm">
+        <HelpTOCNode Title="AddElement メソッド " Url="html/f91726f7-ad03-5997-4ebc-d79f69f940bf.htm" />
+        <HelpTOCNode Title="Copy メソッド " Url="html/d708cfc4-6feb-f8c5-1873-86a7a7f6973d.htm" />
+        <HelpTOCNode Title="Create メソッド " Url="html/1231f477-60db-9573-ba80-2ab55f166f4f.htm" />
+        <HelpTOCNode Title="Destroy メソッド " Url="html/8b976b66-8a17-295d-88b7-00853168237a.htm" />
+        <HelpTOCNode Title="Dump メソッド " Url="html/991e91c9-be07-885b-e123-a4dec3d6e550.htm" />
+        <HelpTOCNode Title="GetContentQiType メソッド " Url="html/f85ab238-746c-8dd7-7baa-5630e316f58a.htm" />
+        <HelpTOCNode Title="GetContentSignature メソッド " Url="html/bb9cc53a-8812-6085-6abb-ec7ec6d1a032.htm" />
+        <HelpTOCNode Title="GetCopy メソッド " Url="html/f6f04909-3587-8043-1781-a3b63a8305dc.htm" />
+        <HelpTOCNode Title="GetDynamic メソッド " Url="html/6f83d58a-4e8b-c633-98d4-0583da58c729.htm" />
+        <HelpTOCNode Title="GetKeys メソッド " Url="html/8e01d642-608b-9c58-32ff-17d19d0821c7.htm" />
+        <HelpTOCNode Title="GetObject メソッド " Url="html/23fe1678-5da7-1c51-60bf-4fee5d531de5.htm" />
+        <HelpTOCNode Title="GetQiType メソッド " Url="html/1d8f22b0-2ef2-2c3e-7509-a34fc7d85f3d.htm" />
+        <HelpTOCNode Title="GetSignature メソッド " Url="html/a7f6c777-b706-0889-19ac-8c0c16c9555a.htm" />
+        <HelpTOCNode Title="Reset メソッド " Url="html/7f6d5b55-78a1-10f3-9b09-53ba885bc3eb.htm" />
+        <HelpTOCNode Id="17a764a6-31a5-4da8-8c7e-9f9f0738dfdc" Title="SetValue メソッド " Url="html/bcd3389a-2c89-b4b3-a841-1b7bd3a6a6d0.htm">
+          <HelpTOCNode Title="SetValue メソッド (Byte[])" Url="html/a25b81d5-5576-fef7-8bdb-031cab4ca78e.htm" />
+          <HelpTOCNode Title="SetValue メソッド (Double)" Url="html/4bf0c1d6-35c5-fd08-1ed1-91409aadf05b.htm" />
+          <HelpTOCNode Title="SetValue メソッド (Int64)" Url="html/6a66a332-5fd6-431d-b5b3-480ffb6bbf33.htm" />
+          <HelpTOCNode Title="SetValue メソッド (Single)" Url="html/c0ef9ee0-a8be-876d-637e-a34211413573.htm" />
+          <HelpTOCNode Title="SetValue メソッド (String)" Url="html/9905e173-ad1b-bb92-73d1-1bb72d53a6e7.htm" />
+          <HelpTOCNode Title="SetValue メソッド (UInt64)" Url="html/4e6f04ce-b0dd-c2d7-8c1b-75e6044435c9.htm" />
+          <HelpTOCNode Title="SetValue メソッド (QiObject)" Url="html/c2b84b08-5915-74e9-1aa2-d46719c9df00.htm" />
+          <HelpTOCNode Title="SetValue メソッド (QiValue)" Url="html/c783086b-4a48-67a6-201b-c4a9839d3a5c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Swap メソッド " Url="html/907b447c-ac90-2cc9-a94e-4e92edb3be1f.htm" />
+        <HelpTOCNode Title="ToBool メソッド " Url="html/7f9adc11-438c-4417-dc1f-aa6f4bca5cf3.htm" />
+        <HelpTOCNode Title="ToByte メソッド " Url="html/e9c98b19-eebd-ecdc-ee84-5577bae98001.htm" />
+        <HelpTOCNode Title="ToBytes メソッド " Url="html/3c445742-b507-65a0-1635-37f0862e344c.htm" />
+        <HelpTOCNode Title="ToDouble メソッド " Url="html/cdb3cab2-644d-3a0f-0d62-e0b40d9d541a.htm" />
+        <HelpTOCNode Title="ToFloat メソッド " Url="html/51a0bad1-a23d-9ea5-475c-ffa6028ca7f4.htm" />
+        <HelpTOCNode Title="ToInt16 メソッド " Url="html/588378f3-a657-cfcd-a1ba-eabd595f0ec5.htm" />
+        <HelpTOCNode Title="ToInt32 メソッド " Url="html/fe3b8753-3a07-c935-09bd-87687f09d498.htm" />
+        <HelpTOCNode Title="ToInt64 メソッド " Url="html/96bcaaad-0d32-a3ec-2ddc-2dd3bc955771.htm" />
+        <HelpTOCNode Title="ToSByte メソッド " Url="html/d2b2390a-1a51-756e-647e-708f49dde07d.htm" />
+        <HelpTOCNode Title="ToString メソッド " Url="html/40d7692c-5f7c-9192-022f-f7c4d81ed4c8.htm" />
+        <HelpTOCNode Title="ToUInt16 メソッド " Url="html/3b139234-52ed-4a18-2b20-60ce67a99f71.htm" />
+        <HelpTOCNode Title="ToUInt32 メソッド " Url="html/4f9eb110-78ff-861d-1d47-390f4d350a3c.htm" />
+        <HelpTOCNode Title="ToUInt64 メソッド " Url="html/06478ebf-8bfb-5c32-5d98-7671eac8a54c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fda0b2ce-bf84-4239-9019-19fc7f8ad37f" Title="QiValue 型変換" Url="html/23229d08-92bb-7425-d748-3c5ead88e8bb.htm">
+        <HelpTOCNode Id="9b8bbb4f-e399-41e0-bd92-b7d08ca89a7f" Title="Explicit 変換演算子" Url="html/e213f87b-1281-e7e7-767a-6a642f95fcf7.htm">
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Boolean)" Url="html/f774358c-6731-8d9d-9b6b-fde15a726b2c.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Byte)" Url="html/c03941a5-99d1-6dbc-1824-7e66aaf2e8e8.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to UInt16)" Url="html/99cf8fbe-433b-afbf-ece6-991471afaee3.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to UInt32)" Url="html/d1d7c12d-0824-9cbb-833f-d408effe3ff9.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to UInt64)" Url="html/401f2f36-be2b-156d-3fa9-74a890e97064.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to SByte)" Url="html/4e798aa7-118b-2ede-122f-f568097f9010.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Int16)" Url="html/e4183dcf-4d69-76b4-27d3-e8532ffabb1a.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Int32)" Url="html/9d1c231c-ffb9-7786-2b5f-0db509c7b4e3.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Int64)" Url="html/4bf8d314-8008-f681-68d1-03f2a27853ae.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Single)" Url="html/2f126fbb-3255-2f72-bbef-df684ae3892a.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Double)" Url="html/7b6a98cb-448c-fbec-6066-7530dfd4811d.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to String)" Url="html/f91c04c3-faeb-7f17-e778-99fcf190d7a0.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Byte[])" Url="html/894c2a39-81eb-710c-a9ee-dc52ddf0feaa.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Int32[])" Url="html/c694b6f8-5c98-1c51-fbdc-9b1ab277f413.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to Double[])" Url="html/8d11937c-58b4-77bf-eb5f-922688b4b350.htm" />
+          <HelpTOCNode Title="Explicit 変換 (QiValue to String[])" Url="html/cc0242f4-5fe9-17c7-9677-9b0fd3353036.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="QiValueKind 列挙型" Url="html/1b745ab6-5597-758c-4784-a41e6f8b4c40.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="de21c1af-7057-4078-9db2-5d17210ae92a" Title="Baku.LibqiDotNet.Path" Url="html/2448955d-2a37-29d7-9c25-bc6a43b1c1ea.htm">
+    <HelpTOCNode Id="997524cf-49ba-4a01-a84e-61aaabec9e50" Title="PathModifier クラス" Url="html/39181125-4f6c-3fb6-1097-f6a34de752e3.htm">
+      <HelpTOCNode Id="118f1e0b-8f05-46ce-b185-90d9b928b5c7" Title="PathModifier メソッド" Url="html/6f94d33c-04b3-32c5-0571-bfbade798b36.htm">
+        <HelpTOCNode Title="AddEnvironmentPath メソッド " Url="html/6fb25b64-06eb-042e-2222-0b7298ec405b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="PathModifyMode 列挙型" Url="html/1f922333-61f9-a05f-b239-c10cac1ace75.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="21f3d21b-1c25-4338-af55-8f991023f965" Title="Baku.LibqiDotNet.Utils" Url="html/92fcdbc6-26d8-a2e8-d165-f7780178a129.htm">
+    <HelpTOCNode Id="396de093-3db1-4fb1-a460-9927ce23cd74" Title="ReadOnlyDictionary(TKey, TValue) クラス" Url="html/42933f32-1ca7-2619-6c81-f8030b5624c8.htm">
+      <HelpTOCNode Title="ReadOnlyDictionary(TKey, TValue) コンストラクター " Url="html/3f9a7706-8e9b-dcbb-4772-cf697f2573e5.htm" />
+      <HelpTOCNode Id="531c0fdf-9802-4860-83bf-e8b744881179" Title="ReadOnlyDictionary(TKey, TValue) プロパティ" Url="html/4b277922-a4b2-9c54-8196-c886c0f7bcf3.htm">
+        <HelpTOCNode Title="Count プロパティ " Url="html/46afbc10-427c-cc52-a483-7b70a04a812e.htm" />
+        <HelpTOCNode Title="Item プロパティ " Url="html/1c6f0f07-5a79-dc37-1aa4-a35993e06424.htm" />
+        <HelpTOCNode Title="Keys プロパティ " Url="html/40d79e1e-a3a7-87e4-f9c3-94ff56da579c.htm" />
+        <HelpTOCNode Title="Values プロパティ " Url="html/8b6957fa-6fb9-0125-04d3-ff60e59985f2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6a889f3e-10de-4e90-93f7-a8134ca0fa0f" Title="ReadOnlyDictionary(TKey, TValue) メソッド" Url="html/8a887536-924c-8a2e-a333-f60342f68509.htm">
+        <HelpTOCNode Title="Contains メソッド " Url="html/c4727cfa-0bfb-887a-f12f-de9ecf224070.htm" />
+        <HelpTOCNode Title="ContainsKey メソッド " Url="html/8684fa1c-5ca2-1f61-5fd7-169724f561c4.htm" />
+        <HelpTOCNode Title="GetEnumerator メソッド " Url="html/cfbfc925-9309-f47b-8b93-7dc2b3a9b60f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1449769e-d079-45f9-b926-8005aaf62638" Title="ReadOnlyList(T) クラス" Url="html/cf459088-af53-bc4e-298f-cc38bb1520e1.htm">
+      <HelpTOCNode Title="ReadOnlyList(T) コンストラクター " Url="html/90f0acfb-96d7-0b7d-4dfa-a9aa71c4cb94.htm" />
+      <HelpTOCNode Id="2b5ff601-8919-439e-90d9-4af79841f478" Title="ReadOnlyList(T) プロパティ" Url="html/99078483-8406-6b32-7c6b-a5b8ad0a2513.htm">
+        <HelpTOCNode Title="Count プロパティ " Url="html/f0aa3bee-5c2b-07f8-3095-8866efe682f9.htm" />
+        <HelpTOCNode Title="Item プロパティ " Url="html/a61c2c3a-6dd4-d158-a57b-9d1cce84ac99.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9d9f97f0-bf35-425c-82d9-1cb2c23baf68" Title="ReadOnlyList(T) メソッド" Url="html/fed7ff2e-79ee-f0b4-1a3e-2c0e2bd5e9e0.htm">
+        <HelpTOCNode Title="GetEnumerator メソッド " Url="html/2cee8b9e-6f5d-f4f8-dbbd-34ecfdfc1343.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
