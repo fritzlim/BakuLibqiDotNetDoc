@@ -29,7 +29,6 @@
   <HelpKINode Title="Baku.LibqiDotNet.QiList クラス" Url="html/1a1f755e-3661-f86b-34e4-3e918448a366.htm" />
   <HelpKINode Title="Baku.LibqiDotNet.QiList(Of T) クラス" Url="html/f135f0ec-1914-3dc7-6549-60e482015de4.htm" />
   <HelpKINode Title="Baku.LibqiDotNet.QiList&lt;T&gt; クラス" Url="html/f135f0ec-1914-3dc7-6549-60e482015de4.htm" />
-  <HelpKINode Title="Baku.LibqiDotNet.QiListBase クラス" Url="html/30a8fde9-ce0f-45e7-36c4-239d3ec6a7db.htm" />
   <HelpKINode Title="Baku.LibqiDotNet.QiListExtension クラス" Url="html/b05c48e8-bf0d-5d8f-c93d-a4f47a14623b.htm" />
   <HelpKINode Title="Baku.LibqiDotNet.QiMap クラス" Url="html/a99b5996-427b-8c5f-e27b-ef7c087b95ce.htm" />
   <HelpKINode Title="Baku.LibqiDotNet.QiMap(Of K, V) クラス" Url="html/4bb154ad-ddea-c952-1de7-efe22b6d998d.htm" />
@@ -84,7 +83,7 @@
   <HelpKINode Title="ContentValueKind プロパティ" Url="html/6c7cd443-3541-8041-bff5-f756aa9b89f9.htm" />
   <HelpKINode Title="Copy メソッド" Url="html/d708cfc4-6feb-f8c5-1873-86a7a7f6973d.htm" />
   <HelpKINode Title="Count プロパティ">
-    <HelpKINode Title="QiListBase.Count プロパティ " Url="html/f43818b1-583a-7d88-49fe-01c2e14979a1.htm" />
+    <HelpKINode Title="QiList(T).Count プロパティ " Url="html/bc87e976-23e6-3fcd-7804-ec05602e5073.htm" />
     <HelpKINode Title="QiTuple.Count プロパティ " Url="html/4b4ac634-ec5a-ce26-382d-8865d8ebdd6a.htm" />
     <HelpKINode Title="QiValue.Count プロパティ " Url="html/290c9e9a-70ec-7b55-b082-f609e111de4a.htm" />
     <HelpKINode Title="ReadOnlyDictionary(TKey, TValue).Count プロパティ " Url="html/46afbc10-427c-cc52-a483-7b70a04a812e.htm" />
@@ -104,9 +103,11 @@
   </HelpKINode>
   <HelpKINode Title="Create(Of K, V) メソッド" Url="html/dd587d60-306f-98e3-624e-3334d439ed3b.htm" />
   <HelpKINode Title="Create&lt;K, V&gt; メソッド" Url="html/dd587d60-306f-98e3-624e-3334d439ed3b.htm" />
-  <HelpKINode Title="CreateDynamic メソッド" Url="html/069a8cd1-92ae-33eb-4bc9-a3aef8b7d9dd.htm" />
-  <HelpKINode Title="CreateFrom(Of T) メソッド" Url="html/4c6471ec-4a12-14a5-22f0-41f4e22fe0f4.htm" />
-  <HelpKINode Title="CreateFrom&lt;T&gt; メソッド" Url="html/4c6471ec-4a12-14a5-22f0-41f4e22fe0f4.htm" />
+  <HelpKINode Title="CreateDynamic メソッド">
+    <HelpKINode Title="QiList(T).CreateDynamic メソッド " Url="html/b604a499-3204-0779-519e-f07ef54d5a08.htm" />
+    <HelpKINode Title="QiList.CreateDynamic メソッド " Url="html/bd41d61f-978a-96e1-67d5-f2da020c0eee.htm" />
+    <HelpKINode Title="QiTuple.CreateDynamic メソッド " Url="html/069a8cd1-92ae-33eb-4bc9-a3aef8b7d9dd.htm" />
+  </HelpKINode>
   <HelpKINode Title="Description プロパティ">
     <HelpKINode Title="QiMethodArgumentInfo.Description プロパティ " Url="html/af02bc65-5d03-3e75-4f71-45b0a915f2e6.htm" />
     <HelpKINode Title="QiMethodInfo.Description プロパティ " Url="html/ae04f63b-6f9b-6d42-d0e4-cf6c677accda.htm" />
@@ -148,6 +149,7 @@
   <HelpKINode Title="GetKeys メソッド" Url="html/8e01d642-608b-9c58-32ff-17d19d0821c7.htm" />
   <HelpKINode Title="GetMapKeyType メソッド" Url="html/b1890eeb-0761-4a2c-6fd1-49365f4c0195.htm" />
   <HelpKINode Title="GetMapValueType メソッド" Url="html/32c11fef-0b47-ff06-68b4-ba03aaa93995.htm" />
+  <HelpKINode Title="GetMetaObject メソッド" Url="html/bbc89271-606a-44d8-4c11-a5187f8c59ae.htm" />
   <HelpKINode Title="GetObject メソッド">
     <HelpKINode Title="QiFuture.GetObject メソッド " Url="html/ed5c6d9c-8c72-4ea2-f5df-4e2626e938ed.htm" />
     <HelpKINode Title="QiValue.GetObject メソッド " Url="html/23fe1678-5da7-1c51-60bf-4fee5d531de5.htm" />
@@ -186,7 +188,6 @@
   <HelpKINode Title="IsRunning プロパティ" Url="html/a6381e8e-df13-a041-e638-9bd99568d7e3.htm" />
   <HelpKINode Title="Item プロパティ">
     <HelpKINode Title="QiList(T).Item プロパティ " Url="html/1cfc508d-d8a2-f46b-ee6a-df92845e2daf.htm" />
-    <HelpKINode Title="QiListBase.Item プロパティ " Url="html/4174294f-74d3-45f2-7aeb-4de74b7e1653.htm" />
     <HelpKINode Title="QiMap(K, V).Item プロパティ " Url="html/6543a89a-f857-255b-9ce9-8100cee3cd6c.htm" />
     <HelpKINode Title="QiMethods.Item プロパティ " Url="html/7ec67a7b-e5a8-8509-b6af-4d1aa5168fb9.htm" />
     <HelpKINode Title="QiObject.Item プロパティ " Url="html/86db963b-a999-acf6-8c5e-4e94342d387c.htm" />
@@ -197,6 +198,9 @@
   <HelpKINode Title="Keys プロパティ" Url="html/40d79e1e-a3a7-87e4-f9c3-94ff56da579c.htm" />
   <HelpKINode Title="Listen メソッド" Url="html/0d7174fd-974b-7120-211b-a56f052ab4c8.htm" />
   <HelpKINode Title="ListOf メソッド" Url="html/19b8d233-65dd-c74d-104b-974a36ecf268.htm" />
+  <HelpKINode Title="MapItems プロパティ" Url="html/3407951b-3c03-c6a3-1c87-5cd372c66994.htm" />
+  <HelpKINode Title="MapKeys プロパティ" Url="html/d28eb88f-d072-9ae3-8ac3-85aa45382ea4.htm" />
+  <HelpKINode Title="MapValues プロパティ" Url="html/b4c04b34-a574-e206-0932-8ae6b641406e.htm" />
   <HelpKINode Title="MethodNameSuffix フィールド" Url="html/0c864150-84a0-c9bd-b8cf-a45f84ed51de.htm" />
   <HelpKINode Title="Name プロパティ">
     <HelpKINode Title="QiMethod.Name プロパティ " Url="html/24437898-dd9b-d7e8-6c42-60502700a319.htm" />
@@ -411,38 +415,33 @@
     <HelpKINode Title="プロパティ" Url="html/9e39191d-6300-0f92-bba9-08e2e5d894e3.htm" />
     <HelpKINode Title="メソッド" Url="html/672a4459-49c0-75bf-9a4a-3b5c860c11af.htm" />
   </HelpKINode>
+  <HelpKINode Title="QiList(Of T).Count プロパティ" Url="html/bc87e976-23e6-3fcd-7804-ec05602e5073.htm" />
   <HelpKINode Title="QiList(Of T).Create メソッド" Url="html/0fbc51c3-fa09-e9f2-44d1-a219b9ae14ec.htm" />
+  <HelpKINode Title="QiList(Of T).CreateDynamic メソッド" Url="html/b604a499-3204-0779-519e-f07ef54d5a08.htm" />
   <HelpKINode Title="QiList(Of T).Item プロパティ" Url="html/1cfc508d-d8a2-f46b-ee6a-df92845e2daf.htm" />
   <HelpKINode Title="QiList(Of T).QiValue プロパティ" Url="html/d23b70fe-4afc-f921-a374-8c7dc81155e4.htm" />
   <HelpKINode Title="QiList(Of T).Signature プロパティ" Url="html/99b6f128-8c92-73d4-9be6-193719e1072e.htm" />
   <HelpKINode Title="QiList.Create メソッド" Url="html/d8edd86f-db91-18c8-56a7-a2ac02f387bb.htm" />
-  <HelpKINode Title="QiList.CreateFrom(Of T) メソッド" Url="html/4c6471ec-4a12-14a5-22f0-41f4e22fe0f4.htm" />
-  <HelpKINode Title="QiList.CreateFrom&lt;T&gt; メソッド" Url="html/4c6471ec-4a12-14a5-22f0-41f4e22fe0f4.htm" />
+  <HelpKINode Title="QiList.CreateDynamic メソッド" Url="html/bd41d61f-978a-96e1-67d5-f2da020c0eee.htm" />
   <HelpKINode Title="QiList&lt;T&gt; クラス">
     <HelpKINode Title="QiList(T) クラス" Url="html/f135f0ec-1914-3dc7-6549-60e482015de4.htm" />
     <HelpKINode Title="QiList&lt;T&gt; クラスについて" Url="html/f135f0ec-1914-3dc7-6549-60e482015de4.htm" />
     <HelpKINode Title="プロパティ" Url="html/9e39191d-6300-0f92-bba9-08e2e5d894e3.htm" />
     <HelpKINode Title="メソッド" Url="html/672a4459-49c0-75bf-9a4a-3b5c860c11af.htm" />
   </HelpKINode>
+  <HelpKINode Title="QiList&lt;T&gt;.Count プロパティ" Url="html/bc87e976-23e6-3fcd-7804-ec05602e5073.htm" />
   <HelpKINode Title="QiList&lt;T&gt;.Create メソッド" Url="html/0fbc51c3-fa09-e9f2-44d1-a219b9ae14ec.htm" />
+  <HelpKINode Title="QiList&lt;T&gt;.CreateDynamic メソッド" Url="html/b604a499-3204-0779-519e-f07ef54d5a08.htm" />
   <HelpKINode Title="QiList&lt;T&gt;.Item プロパティ" Url="html/1cfc508d-d8a2-f46b-ee6a-df92845e2daf.htm" />
   <HelpKINode Title="QiList&lt;T&gt;.QiValue プロパティ" Url="html/d23b70fe-4afc-f921-a374-8c7dc81155e4.htm" />
   <HelpKINode Title="QiList&lt;T&gt;.Signature プロパティ" Url="html/99b6f128-8c92-73d4-9be6-193719e1072e.htm" />
-  <HelpKINode Title="QiListBase クラス">
-    <HelpKINode Title="QiListBase クラス" Url="html/30a8fde9-ce0f-45e7-36c4-239d3ec6a7db.htm" />
-    <HelpKINode Title="QiListBase クラスについて" Url="html/30a8fde9-ce0f-45e7-36c4-239d3ec6a7db.htm" />
-    <HelpKINode Title="コンストラクター" Url="html/d8ed10ba-21a4-7a8c-eaeb-76456790ba14.htm" />
-    <HelpKINode Title="プロパティ" Url="html/e4324292-b086-ff92-6b05-5c2fb05c1e98.htm" />
-    <HelpKINode Title="メソッド" Url="html/fe958ba3-6971-1ae5-ac76-b29de713ed80.htm" />
-  </HelpKINode>
-  <HelpKINode Title="QiListBase.Count プロパティ" Url="html/f43818b1-583a-7d88-49fe-01c2e14979a1.htm" />
-  <HelpKINode Title="QiListBase.Item プロパティ" Url="html/4174294f-74d3-45f2-7aeb-4de74b7e1653.htm" />
-  <HelpKINode Title="QiListBase.QiListBase コンストラクター" Url="html/d8ed10ba-21a4-7a8c-eaeb-76456790ba14.htm" />
   <HelpKINode Title="QiListExtension クラス">
     <HelpKINode Title="QiListExtension クラス" Url="html/b05c48e8-bf0d-5d8f-c93d-a4f47a14623b.htm" />
     <HelpKINode Title="QiListExtension クラスについて" Url="html/b05c48e8-bf0d-5d8f-c93d-a4f47a14623b.htm" />
     <HelpKINode Title="メソッド" Url="html/583dc1d1-4e71-d04f-37a4-2b97bfdfc6cf.htm" />
   </HelpKINode>
+  <HelpKINode Title="QiListExtension.ToQiDynamicList(Of T) メソッド" Url="html/6cca6fc2-d23e-6ac9-46cd-91cc5de0e95b.htm" />
+  <HelpKINode Title="QiListExtension.ToQiDynamicList&lt;T&gt; メソッド" Url="html/6cca6fc2-d23e-6ac9-46cd-91cc5de0e95b.htm" />
   <HelpKINode Title="QiListExtension.ToQiList(Of T) メソッド" Url="html/23b3a01a-df71-7fe6-a16d-155ec452ca38.htm" />
   <HelpKINode Title="QiListExtension.ToQiList&lt;T&gt; メソッド" Url="html/23b3a01a-df71-7fe6-a16d-155ec452ca38.htm" />
   <HelpKINode Title="QiMap クラス">
@@ -543,6 +542,7 @@
   <HelpKINode Title="QiObject.Description プロパティ" Url="html/62c3d6a3-48b3-ab7b-bd9f-c1151d1c6d55.htm" />
   <HelpKINode Title="QiObject.Destroy メソッド" Url="html/adbdd9a4-c601-e9f9-3d3d-ec58e139b94a.htm" />
   <HelpKINode Title="QiObject.DisconnectSignal メソッド" Url="html/587a3d5a-07c2-3443-84ba-82d58fb421ab.htm" />
+  <HelpKINode Title="QiObject.GetMetaObject メソッド" Url="html/bbc89271-606a-44d8-4c11-a5187f8c59ae.htm" />
   <HelpKINode Title="QiObject.GetProperty メソッド" Url="html/bbf77843-feee-95bb-01b5-c2e57eb8ef11.htm" />
   <HelpKINode Title="QiObject.Item プロパティ" Url="html/86db963b-a999-acf6-8c5e-4e94342d387c.htm" />
   <HelpKINode Title="QiObject.PostDirect メソッド" Url="html/90ff7854-d074-cf76-8d97-b59d9010eea5.htm" />
@@ -793,6 +793,9 @@
   <HelpKINode Title="QiValue.GetQiType メソッド" Url="html/1d8f22b0-2ef2-2c3e-7509-a34fc7d85f3d.htm" />
   <HelpKINode Title="QiValue.GetSignature メソッド" Url="html/a7f6c777-b706-0889-19ac-8c0c16c9555a.htm" />
   <HelpKINode Title="QiValue.Item プロパティ" Url="html/7731708b-331c-cd43-50e1-3e77797e6c52.htm" />
+  <HelpKINode Title="QiValue.MapItems プロパティ" Url="html/3407951b-3c03-c6a3-1c87-5cd372c66994.htm" />
+  <HelpKINode Title="QiValue.MapKeys プロパティ" Url="html/d28eb88f-d072-9ae3-8ac3-85aa45382ea4.htm" />
+  <HelpKINode Title="QiValue.MapValues プロパティ" Url="html/b4c04b34-a574-e206-0932-8ae6b641406e.htm" />
   <HelpKINode Title="QiValue.NonDynamicValue プロパティ" Url="html/598f6b91-af92-02f0-8397-e71c414cd700.htm" />
   <HelpKINode Title="QiValue.Reset メソッド" Url="html/7f6d5b55-78a1-10f3-9b09-53ba885bc3eb.htm" />
   <HelpKINode Title="QiValue.SetValue メソッド" Url="html/bcd3389a-2c89-b4b3-a841-1b7bd3a6a6d0.htm" />
@@ -929,6 +932,8 @@
   <HelpKINode Title="ToInt16 メソッド" Url="html/588378f3-a657-cfcd-a1ba-eabd595f0ec5.htm" />
   <HelpKINode Title="ToInt32 メソッド" Url="html/fe3b8753-3a07-c935-09bd-87687f09d498.htm" />
   <HelpKINode Title="ToInt64 メソッド" Url="html/96bcaaad-0d32-a3ec-2ddc-2dd3bc955771.htm" />
+  <HelpKINode Title="ToQiDynamicList(Of T) メソッド" Url="html/6cca6fc2-d23e-6ac9-46cd-91cc5de0e95b.htm" />
+  <HelpKINode Title="ToQiDynamicList&lt;T&gt; メソッド" Url="html/6cca6fc2-d23e-6ac9-46cd-91cc5de0e95b.htm" />
   <HelpKINode Title="ToQiList(Of T) メソッド" Url="html/23b3a01a-df71-7fe6-a16d-155ec452ca38.htm" />
   <HelpKINode Title="ToQiList&lt;T&gt; メソッド" Url="html/23b3a01a-df71-7fe6-a16d-155ec452ca38.htm" />
   <HelpKINode Title="ToQiMap(Of K, V) メソッド" Url="html/9223ffab-a9a9-91f9-e56f-320daa184f53.htm" />
@@ -1000,6 +1005,7 @@
   <HelpKINode Title="Values プロパティ" Url="html/8b6957fa-6fb9-0125-04d3-ff60e59985f2.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/cd0fc976-a517-4cde-9181-4d57cbf43a85.htm" />
+    <HelpKINode Title="1.0.1.0" Url="html/07ce38cf-0e66-4dbf-a57c-f963e1a57933.htm" />
     <HelpKINode Title="history" Url="html/e7e7f769-1edf-4d58-9fd2-34d73284d30e.htm" />
   </HelpKINode>
   <HelpKINode Title="Void プロパティ" Url="html/9d6f72a0-dec2-f657-4d18-1a03cae9a969.htm" />
